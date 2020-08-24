@@ -13,6 +13,3 @@
 ![5 and 6](../images/5_and_6.png)
 
 ### 7. Upen up a new jupyter notebook using the kernel in jupyter lab
-
-![]()
-
