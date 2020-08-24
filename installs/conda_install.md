@@ -2,7 +2,7 @@
 
 ### 1-2. Install Anaconda
 
-![../images/conda_inst.png]
+![a](../images/conda_inst.png)
 
 ### 3-4. Create an environment for this class and activate it
 
