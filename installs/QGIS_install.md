@@ -4,7 +4,7 @@
 
 I started by installing QGIS
 
-![QGIS install](qgis_installed.png)
+![QGIS_install](../images/qgis_installed.png)
 
 ### 2. Find a region in Overpass Turbo
 
@@ -37,4 +37,4 @@ Downloaded NAIP ID `M_4208750_SW_16_060_20190809`...
 
 ...and ended up with all houses overlaid on an image of my high school and the surrounding area.
 
-~[GBN and houses](../images/GBN_ortho.png)
+![GBN_and_houses](../images/GBN_ortho.png)
