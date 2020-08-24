@@ -6,10 +6,12 @@
 
 ### 3-4. Create an environment for this class and activate it
 
-![Lot of installs](../images/all_install.png)
+![](../images/conda_activate.png)
 
-### 5. Install a lot of packages
+### 5-6. Install a lot of packages
 
 ![5 and 6](../images/5_and_6.png)
 
-### 7. Upen up a new jupyter notebook using the kernel in jupyter lab
+### 7-14. Create an ipython kernel, open up a new jupyter notebook with said kernel, and validate a boatload of installs
+
+![Lotta steps in one](../images/jupyter7-14.png)
